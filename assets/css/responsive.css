@@ -1,5 +1,8 @@
 /* Pc */
-@media (min-width:1024px) {}
+@media (min-width:1024px) {
+    .mobile-menu-btn {
+        display: none; }
+}
 
 /* Tablet and mobile  */
 @media (max-width:1023px) {
